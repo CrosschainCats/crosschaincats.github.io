@@ -1,0 +1,30 @@
+{
+    "DNA": "bacac283b87467cfbc781db259b996afac988c7ade33aeb02c33d8944d951cdd", 
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 4
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Grumpiness", 
+            "value": 35
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Cuteness", 
+            "value": 47
+        }, 
+        {
+            "max_value": 100, 
+            "trait_type": "Purrfectness", 
+            "value": 62
+        }
+    ], 
+    "catId": 14066, 
+    "description": "Crosschain Cat #14066\n\nDNA: **bacac283b87467cfbc781db259b996afac988c7ade33aeb02c33d8944d951cdd**", 
+    "external_url": "https://crosschaincats.github.io/#14066", 
+    "image": "https://crosschaincats.github.io/cat/14066.jpg", 
+    "name": "Crosschain Cat #14066"
+}

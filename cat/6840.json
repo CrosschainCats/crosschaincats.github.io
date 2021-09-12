@@ -1,0 +1,30 @@
+{
+    "DNA": "6ba45128131734952e287fe21827d94dbe6165e67e8280f38e3ca2def7a27e30", 
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 4
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Grumpiness", 
+            "value": 29
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Cuteness", 
+            "value": 56
+        }, 
+        {
+            "max_value": 100, 
+            "trait_type": "Purrfectness", 
+            "value": 90
+        }
+    ], 
+    "catId": 6840, 
+    "description": "Crosschain Cat #6840\n\nDNA: **6ba45128131734952e287fe21827d94dbe6165e67e8280f38e3ca2def7a27e30**", 
+    "external_url": "https://crosschaincats.github.io/#6840", 
+    "image": "https://crosschaincats.github.io/cat/6840.jpg", 
+    "name": "Crosschain Cat #6840"
+}

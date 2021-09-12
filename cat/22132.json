@@ -1,0 +1,30 @@
+{
+    "DNA": "1e8a131664c8a30d5badf8f7568b9acc5ae9c8beb13e7a5877bc18e27c993f5b", 
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 4
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Grumpiness", 
+            "value": 59
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Cuteness", 
+            "value": 75
+        }, 
+        {
+            "max_value": 100, 
+            "trait_type": "Purrfectness", 
+            "value": 55
+        }
+    ], 
+    "catId": 22132, 
+    "description": "Crosschain Cat #22132\n\nDNA: **1e8a131664c8a30d5badf8f7568b9acc5ae9c8beb13e7a5877bc18e27c993f5b**", 
+    "external_url": "https://crosschaincats.github.io/#22132", 
+    "image": "https://crosschaincats.github.io/cat/22132.jpg", 
+    "name": "Crosschain Cat #22132"
+}

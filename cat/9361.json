@@ -1,0 +1,30 @@
+{
+    "DNA": "7ec7c273778286a453d227fccac8a3f3edfb955f3cdda576e07cebb933de2a25", 
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 4
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Grumpiness", 
+            "value": 35
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Cuteness", 
+            "value": 81
+        }, 
+        {
+            "max_value": 100, 
+            "trait_type": "Purrfectness", 
+            "value": 47
+        }
+    ], 
+    "catId": 9361, 
+    "description": "Crosschain Cat #9361\n\nDNA: **7ec7c273778286a453d227fccac8a3f3edfb955f3cdda576e07cebb933de2a25**", 
+    "external_url": "https://crosschaincats.github.io/#9361", 
+    "image": "https://crosschaincats.github.io/cat/9361.jpg", 
+    "name": "Crosschain Cat #9361"
+}

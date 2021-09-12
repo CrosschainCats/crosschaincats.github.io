@@ -1,0 +1,30 @@
+{
+    "DNA": "b59024b276b07ff0b592b6b30c406dd0d4e9011f66b4af6ef3962be16dac8b29", 
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 4
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Grumpiness", 
+            "value": 98
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Cuteness", 
+            "value": 90
+        }, 
+        {
+            "max_value": 100, 
+            "trait_type": "Purrfectness", 
+            "value": 8
+        }
+    ], 
+    "catId": 9036, 
+    "description": "Crosschain Cat #9036\n\nDNA: **b59024b276b07ff0b592b6b30c406dd0d4e9011f66b4af6ef3962be16dac8b29**", 
+    "external_url": "https://crosschaincats.github.io/#9036", 
+    "image": "https://crosschaincats.github.io/cat/9036.jpg", 
+    "name": "Crosschain Cat #9036"
+}

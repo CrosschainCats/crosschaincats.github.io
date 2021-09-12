@@ -1,0 +1,30 @@
+{
+    "DNA": "793de9edc0c4b39077311f3518f9d5f1ee5173e6d13cf79c576cb355bbf191b8", 
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 4
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Grumpiness", 
+            "value": 13
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Cuteness", 
+            "value": 85
+        }, 
+        {
+            "max_value": 100, 
+            "trait_type": "Purrfectness", 
+            "value": 18
+        }
+    ], 
+    "catId": 8421, 
+    "description": "Crosschain Cat #8421\n\nDNA: **793de9edc0c4b39077311f3518f9d5f1ee5173e6d13cf79c576cb355bbf191b8**", 
+    "external_url": "https://crosschaincats.github.io/#8421", 
+    "image": "https://crosschaincats.github.io/cat/8421.jpg", 
+    "name": "Crosschain Cat #8421"
+}

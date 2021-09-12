@@ -1,0 +1,30 @@
+{
+    "DNA": "554f96a2b712aa0d6373d14f5a707ab5e617dc0cbfd26ff9b1214b4bc082bc13", 
+    "attributes": [
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 4
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Grumpiness", 
+            "value": 92
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Cuteness", 
+            "value": 60
+        }, 
+        {
+            "max_value": 100, 
+            "trait_type": "Purrfectness", 
+            "value": 48
+        }
+    ], 
+    "catId": 16370, 
+    "description": "Crosschain Cat #16370\n\nDNA: **554f96a2b712aa0d6373d14f5a707ab5e617dc0cbfd26ff9b1214b4bc082bc13**", 
+    "external_url": "https://crosschaincats.github.io/#16370", 
+    "image": "https://crosschaincats.github.io/cat/16370.jpg", 
+    "name": "Crosschain Cat #16370"
+}
